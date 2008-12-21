@@ -8,7 +8,7 @@ Version: 1.0
 Author URI: http://www.gudlyf.com
 */
 
-/*^M
+/*
 Copyright (C) 2008 Keith McDuffee, gudlyf.com (keith AT gudlyf DOT com)
 
 This program is free software; you can redistribute it and/or modify

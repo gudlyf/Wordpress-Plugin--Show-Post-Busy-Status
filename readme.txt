@@ -1,6 +1,6 @@
 === Show Post Busy Status ===
 Contributors: Gudlyf
-Donate link: http://www.cliqueclack.com/tv
+Donate link: http://astore.amazon.com/cliqueclack-20
 Tags: admin, editors, administration, enhancement, colaboration
 Requires at least: 2.6.0
 Stable tag: 1.0
