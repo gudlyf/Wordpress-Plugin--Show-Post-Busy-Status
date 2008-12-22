@@ -3,7 +3,7 @@ Contributors: Gudlyf
 Donate link: http://astore.amazon.com/cliqueclack-20
 Tags: admin, editors, administration, enhancement, colaboration
 Requires at least: 2.6.0
-Stable tag: 1.0
+Stable tag: 1.1
 
 Very simple plugin, though it will save blog editors one step rather than bumping
 heads over publishing pending posts.
