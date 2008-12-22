@@ -4,7 +4,7 @@ Plugin Name: Show Post Busy Status
 Plugin URI: http://www.gudlyf.com/2008/10/24/wordpress-plugin-show-post-busy-status/
 Description: Adds a new column to the post management list that lists the busy status of a post when another user is editing that post. Saves editors from entering a post when the author isn't finished editing it yet.
 Author: Keith McDuffee
-Version: 1.0
+Version: 1.1
 Author URI: http://www.gudlyf.com
 */
 
@@ -16,9 +16,9 @@ it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 3 of the License, or
 (at your option) any later version.
 
-This program is distributed in the hope that it will be useful,^M
-but WITHOUT ANY WARRANTY; without even the implied warranty of^M
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the^M
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
