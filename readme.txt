@@ -1,5 +1,5 @@
 === Show Post Busy Status ===
-Contributors: Gudlyf
+Contributors: Keith McDuffee (Gudlyf)
 Donate link: http://astore.amazon.com/cliqueclack-20
 Tags: admin, editors, administration, enhancement, colaboration
 Requires at least: 2.6.0
