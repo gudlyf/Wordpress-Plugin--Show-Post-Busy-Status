@@ -3,7 +3,7 @@ Contributors: Keith McDuffee (Gudlyf)
 Donate link: http://astore.amazon.com/cliqueclack-20
 Tags: admin, editors, administration, enhancement, colaboration
 Requires at least: 2.6.0
-Stable tag: 1.1
+Stable tag: 1.2
 
 Very simple plugin, though it will save blog editors one step rather than bumping
 heads over publishing pending posts.
@@ -23,3 +23,7 @@ and you can see the name of the person editing the post.
 Activate in plugins admin screen. No options available. As of Wordpress 2.7, the
 'Busy?' column can be hidden using the 'Screen' tab for the edit posts screen in
 the admin interface.
+
+== ChangeLog ==
+
+1.2 - Added capability to page editing screen.
